@@ -81,8 +81,8 @@ startSesi()
 } else if (connection === "connecting") {
 console.log(chalk.cyan.bold('Authenticating . . . '))
 } else if (connection === "open") {
-let teksnotif = `*Mᴋ-bᴏᴛ* Successfully Connected to WhatsApp Number ${mk.user.id.split(":")[0]}`
-mk.sendMessage("263780166288@s.whatsapp.net", {text: teksnotif})
+let teksnotif = `*nector-bᴏᴛ* Successfully Connected to WhatsApp Number ${mk.user.id.split(":")[0]}`
+mk.sendMessage("254725474072@s.whatsapp.net", {text: teksnotif})
 console.log(chalk.cyan.bold('nector Bot Successfully Connected'))
 const linksal = ["0029Vb3zzYJ9xVJk0Y65c81W"]
 

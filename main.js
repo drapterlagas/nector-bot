@@ -5,6 +5,7 @@ const readline = require("readline")
 const welcome = JSON.parse(fs.readFileSync("./all/database/welcome.json"))
 const { sleep } = require("./all/myfunc.js")  
 const usePairingCode = true
+const PORT = process.env.PORT || 3000;
 
 // Global toggles
 global.autoreadsw = true // Auto-read statuses

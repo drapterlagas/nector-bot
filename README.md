@@ -1,5 +1,5 @@
 <p align="center">
-MK bot v²
+nector bot v²
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -35,7 +35,7 @@ MK bot v²
 
  <p align="left">
   <a href="https://github.com/drapterlagas/nector-bot/fork">
-    <img src="https://img.shields.io/badge/Fork-MK--Bot-%2393FF005C?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fork-nector--Bot-%2393FF005C?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@ MK bot v²
 ## 💡 Credits & Contributors
 
 > **ⓃⒺCⓉOR🍯 Owner**  
-- [Malvin King](https://github.com/drapterlagas) - **Creator & Maintainer**  
+- [drapter](https://github.com/drapterlagas) - **Creator & Maintainer**  
 - Contributions include **bot plugins, command files, and script optimizations.**
 
 ---

@@ -19,7 +19,7 @@ nector bot v²
     <img src="https://img.shields.io/github/stars/drapterlagas/nector-bot?label=Stars&style=flat&color=brightgreen" alt="GitHub Stars" />
   </a>
   <a href="https://github.com/drapterlagas/nector-bot/network/members">
-    <img src="https://img.shields.io/github/forks/XdKing2/Mk-bot?label=Forks&style=flat&color=orange" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/forks/drapterlagas/nector-bot?label=Forks&style=flat&color=orange" alt="GitHub Forks" />
   </a>
   <a href="https://github.com/drapterlagas/nector-bot/watchers">
     <img src="https://img.shields.io/github/watchers/drapterlagas/nector-bot?label=Watching&style=flat&color=purple" alt="GitHub Watchers" />
